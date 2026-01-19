@@ -1,0 +1,10 @@
+SQL-Task-3-Data-Analyst/
+│
+├── dataset/
+│   └── superstore_sales.csv
+│
+├── queries_task3.sql
+├── sales_summary.csv
+├── README.md
+└── screenshots/
+    └── query_execution_proof.png (optional)
